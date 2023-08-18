@@ -1,0 +1,39 @@
+.introduce{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(#41266a,#10011c);
+    display:flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.introduce-container{
+    max-width: 700px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center ;
+    justify-content: center;
+    padding: 1.5rem;
+    border: 1px solid transparent;
+    border-radius: 10px;
+
+}
+.introduce-btn{
+    width: 250px;
+    height: 50px;
+    font-size: 17px;
+    background-color: #6409ed;
+    color: white;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+    cursor: pointer;
+
+
+}
+

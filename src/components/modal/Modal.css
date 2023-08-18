@@ -1,0 +1,23 @@
+.modal-btn{
+    width: 250px;
+    height: 50px;
+    font-size: 17px;
+    background-color: #6409ed;
+    color: white;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+    cursor: pointer;
+}
+.modal{
+    text-align: center;
+}
+.modal-score{
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 10px ;
+    color: white;
+}
